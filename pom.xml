@@ -47,8 +47,18 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.2.11.RELEASE</version>
             </plugin>
         </plugins>
     </build>
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            &lt;!&ndash; id必须唯一 &ndash;&gt;-->
+<!--            <id>jboss-repository</id>-->
+<!--            <name>jboss repository</name>-->
+<!--            <url>http://repository.jboss.org/nexus/content/groups/public-jboss/</url>-->
+<!--        </repository>-->
+<!--        -->
 
+<!--    </repositories>-->
 </project>
